@@ -1,4 +1,7 @@
-﻿Option Strict On
+﻿'Author: Kaifkhan Vakil #100772820
+'Date: 30th july, 2020
+'Description: It is the basic text editor form, with all the basic functionality.
+Option Strict On
 Imports System.IO
 
 Public Class mainForm
